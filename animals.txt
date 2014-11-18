@@ -8,3 +8,5 @@ blaireau
 chat
 chien
 renard
+saumon
+truitre
