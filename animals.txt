@@ -7,3 +7,4 @@ baleine
 blaireau
 chat
 chien
+renard
